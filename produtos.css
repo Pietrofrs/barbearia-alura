@@ -26,7 +26,9 @@ nav a {
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
-}.produtos {
+}
+
+.produtos {
     width: 940px;
     margin: 0 auto;
     padding: 50px 0;
@@ -57,4 +59,3 @@ nav a {
     font-size: 22px;
     font-weight: bold;
     margin-top: 10px;
-    
