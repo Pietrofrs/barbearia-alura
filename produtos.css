@@ -1,5 +1,5 @@
 header {
-    background: #BBBBBB;
+    background: #ff0000;
     padding: 20px 0;
 }
 
@@ -22,10 +22,10 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: #000000;
+    color: #00ff0d;
     font-weight: bold;
     font-size: 22px;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .produtos {
@@ -42,12 +42,12 @@ nav a {
     margin: 0 1.5%;
     padding: 30px 20px;
     box-sizing: border-box;
-    border: 2px solid #000000;
+    border: 2px solid #0000ff;
     border-radius: 10px;
 }
 
 .produtos h2 {
-    font-size: 30px;
+    font-size: 34px;
     font-weight: bold;
 }
 
